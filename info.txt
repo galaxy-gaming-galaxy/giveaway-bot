@@ -1,0 +1,2 @@
+Die Prefix ist g!
+Zum erstellen eines giveaway nutze g!create #channel <gewinn> <dauer(s=sekunden, m=minuten usw) und die zahl> genaues folgt noch in der befehls liste
